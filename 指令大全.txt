@@ -1,0 +1,28 @@
+pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
+pip install -r requirements.txt -i pypi.v2ex.com/simple
+
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r requirements.txt -i http://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple xxx
+
+pip install Pillow-4.2.1-cp36-cp36m-win_amd64.whl
+
+
+转换到py3.6
+virtualenv -p C:\Users\lenovo\AppData\Local\Programs\Python\Python36\python.exe D:\E\Django_project\my_izone\env
+
+
+
+pip install -r plus.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
+
+
+
+pip install jupyter -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
+
+妙啊下面的
+pip install django-haystack==2.8.1 -i http://pypi.tuna.tsinghua.edu.cn/simple --trusted-host=pypi.tuna.tsinghua.edu.cn
+
+pip install Pillow==6.2.0 -i http://pypi.tuna.tsinghua.edu.cn/simple --trusted-host=pypi.tuna.tsinghua.edu.cn
+
+pip install mysqlclient==1.4.4 -i http://pypi.tuna.tsinghua.edu.cn/simple --trusted-host=pypi.tuna.tsinghua.edu.cn
